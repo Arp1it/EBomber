@@ -1,6 +1,6 @@
 `README.md` file for email bomber project:
 
-```markdown
+
 # Email Bomber - Educational Python Tool
 
 > **Disclaimer**: This software is developed solely for educational purposes, specifically to demonstrate sending bulk emails via SMTP. Unauthorized or malicious use is strictly prohibited and may lead to severe legal consequences. The creator is not liable for misuse.
