@@ -114,5 +114,3 @@ This tool is intended solely for educational purposes and ethical demonstrations
 
 Developed by **.ECHO** for educational purposes.
 ```
-
-This README is more comprehensive, tailored for Linux installation and usage, and emphasizes proper legal responsibility and ethical usage.
