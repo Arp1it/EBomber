@@ -58,7 +58,7 @@ Alternatively, generate an **App Password** for added security if you have **two
 3. **Run the Tool**:
    Start the email bomber by executing:
    ```bash
-   python3 email_bomber.py
+   python3 ebomber.py
    ```
 
 4. **Input Details**:
