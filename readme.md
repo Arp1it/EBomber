@@ -1,6 +1,3 @@
-`README.md` file for email bomber project:
-
-
 # Email Bomber - Educational Python Tool
 
 > **Disclaimer**: This software is developed solely for educational purposes, specifically to demonstrate sending bulk emails via SMTP. Unauthorized or malicious use is strictly prohibited and may lead to severe legal consequences. The creator is not liable for misuse.
@@ -46,8 +43,8 @@ Alternatively, generate an **App Password** for added security if you have **two
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/email-bomber.git
-   cd email-bomber
+   git clone https://github.com/Arp1it/EBomber.git
+   cd EBomber
    ```
 
 2. **Install Dependencies**:
@@ -72,6 +69,13 @@ Alternatively, generate an **App Password** for added security if you have **two
 $ python3 email_bomber.py
 Used for education purpose Only!
 Email Bomber Initializing...
+
+   _____     _              ____ _       _               
+  | ____|___| |__   ___    / ___(_)_ __ | |__   ___ _ __ 
+  |  _| / __| '_ \ / _ \  | |   | | '_ \| '_ \ / _ \ '__|
+ _| |__| (__| | | | (_) | | |___| | |_) | | | |  __/ |   
+(_)_____\___|_| |_|\___/   \____|_| .__/|_| |_|\___|_|   
+                                  |_|                  --(Arp1it)
 
 Enter your email here: your-email@example.com
 Enter receiver email here: target-email@example.com
@@ -112,4 +116,4 @@ This tool is intended solely for educational purposes and ethical demonstrations
 
 ---
 
-Developed by **.ECHO** for educational purposes.
+Developed by **.ECHO Cipher(Arp1it)** for educational purposes.
